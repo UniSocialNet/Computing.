@@ -1,0 +1,2 @@
+- [The Future of Intel](https://youtu.be/IUIh0fOUcrQ)
+- [Intel Has a Problem Part 2: Post Mortem: Revived. But the Aftermath?](https://youtu.be/vwHVGoY-Z68)
